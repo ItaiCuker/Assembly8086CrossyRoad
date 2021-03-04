@@ -11,6 +11,12 @@ $ tasm cmain.asm
 $ tlink cmain
 $ cmain
 ```
+##if DOSBOX proccesing is on the slow side
+compiling takes a lot of time/ game running slow
+than hit this command inside the bash:
+```sh
+$ cycles = max
+
 #Where and how to finish?
 
 I won't explain the entire project for my convenience. but here are explanations for my saving score procs:
