@@ -11,4 +11,13 @@ $ tasm cmain.asm
 $ tlink cmain
 $ cmain
 ```
-Enjoy!
+#Where and how to finish?
+
+I won't explain the entire project for my convenience. but here are explanations for my saving score procs:
+
+-Cdata stores all the variables (Documentation in Hebrew sorry...)
+-Cscore has all the score procedures including the ones for the file writing and reading.
+
+I don't know how close It is to working, I didn't touch this project for almost a year now. 
+
+gl and Enjoy!
