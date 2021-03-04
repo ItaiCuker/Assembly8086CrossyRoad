@@ -16,6 +16,7 @@ compiling takes a lot of time/ game running slow
 than hit this command inside the bash:
 ```sh
 $ cycles = max
+```
 
 #Where and how to finish?
 
