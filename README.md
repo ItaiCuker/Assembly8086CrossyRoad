@@ -18,7 +18,7 @@ than hit this command inside the bash:
 $ cycles = max
 ```
 
-#Where and how to finish?
+# Where and how to finish?
 
 I won't explain the entire project for my convenience. but here are explanations for my saving score procs:
 
