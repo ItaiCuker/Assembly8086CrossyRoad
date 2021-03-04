@@ -3,7 +3,7 @@
 
 # How to run
 ## Windows
-Download DOSBOX, upload files to BIN folder, if TASM file already exists replace it.
+Download [DOSBOX](https://sourceforge.net/projects/dosbox/files/latest/download), upload files to BIN folder, if compiler files already exists replace them.
 
 ## Running the pacman.asm
 ```sh
