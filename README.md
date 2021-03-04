@@ -5,7 +5,7 @@
 ## Windows
 Download [DOSBOX](https://sourceforge.net/projects/dosbox/files/latest/download), upload files to BIN folder, if compiler files already exists replace them.
 
-## Running the pacman.asm
+## Running the game
 ```sh
 $ tasm cmain.asm
 $ tlink cmain
